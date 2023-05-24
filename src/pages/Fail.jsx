@@ -13,7 +13,7 @@ const WhiteBox = styled.div`
   height: 571px;
   width: 28%;
   top: 10%;
-  border-radius: 5px;
+  border-radius: 0px;
   background: #ffffff;
   box-shadow: 0px 0px 4px 2px rgba(100, 100, 0.25);
 `;
